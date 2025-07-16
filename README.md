@@ -5,7 +5,9 @@ Planilha dos dados fornecidos pelo desafio de projeto da DIO - Utilizando Prompt
 [dados_aula_relatorio.xlsx](https://github.com/user-attachments/files/21260471/dados_aula_relatorio.xlsx)
 
 A IA utilizada foi o Chat GPT, com os seguintes prompts:
-"Esta é uma tabela com um relatório de vendas. Utilize apenas os dados fornecidos nela para suas respostas. Utilize respostas objetivas e me forneça planilhas como resultados. Quais os países, em ordem crescente, que mais compraram produtos, com base na tabela acima?"
+
+"Esta é uma tabela com um relatório de vendas. Utilize apenas os dados fornecidos nela para suas respostas. Utilize respostas objetivas e me forneça planilhas como resultados.
+Quais os países, em ordem crescente, que mais compraram produtos, com base na tabela acima?"
 
 primeira resposta: 
 
@@ -54,5 +56,7 @@ E, por fim, seu último resultado:
 
 Minha experiência com o projeto foi a mais divertida até o momento, pela criação das planilhas no Excel, organização e inserção em uma IA, porém precisei reforçar os comandos ao Chat GPT, por estar utilizando a versão gratuita, para que mantivesse o mesmo formato das respostas anteriores.
 Apesar disso, minha experiência foi muito satisfatória.
+
+(Os dados utilizados não são de autoria própria, sendo estes fornecidos pelo curso da DIO, e as demais respostas, por IA (Chat GPT)).
 
 
