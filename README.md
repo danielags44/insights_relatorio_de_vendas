@@ -44,7 +44,7 @@ Canadá
 
 Japão "
 
-#por querer a resposta em tabelas, conforme o pedido pelas instruções do projeto da DIO, reforcei o pedido:
+Por querer a resposta em tabelas, conforme o pedido pelas instruções do projeto da DIO, reforcei o pedido:
 
 "Transforme a resposta acima em uma tabela"
 
